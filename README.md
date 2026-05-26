@@ -6,7 +6,7 @@
 
 ## Status
 
-**Work in progress** — built as a personal portfolio exercise to consolidate
+🚧 **Work in progress** — built as a personal portfolio exercise to consolidate
 practical full-stack integration skills (Java/Spring Boot backend + React
 frontend + relational persistence).
 
