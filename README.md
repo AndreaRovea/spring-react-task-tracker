@@ -5,7 +5,7 @@
 
 ## Status
 
-🚧 **Work in progress** — built as a portfolio project to consolidate the FE/BE
+**Work in progress** — built as a portfolio project to consolidate the FE/BE
 integration practice learned during my internship at Demetra Technologies
 (February–March 2025).
 
