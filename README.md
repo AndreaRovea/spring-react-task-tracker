@@ -1,13 +1,14 @@
 # Spring + React Task Tracker
 
-> A minimal full-stack task management app demonstrating the integration of a
-> Spring Boot REST backend with a React (Redux Toolkit) frontend over MySQL.
+> Personal portfolio project — a minimal full-stack task management app
+> demonstrating the integration of a Spring Boot REST backend with a
+> React (Redux Toolkit) frontend over MySQL.
 
 ## Status
 
-**Work in progress** — built as a portfolio project to consolidate the FE/BE
-integration practice learned during my internship at Demetra Technologies
-(February–March 2025).
+🚧 **Work in progress** — built as a personal portfolio exercise to consolidate
+practical full-stack integration skills (Java/Spring Boot backend + React
+frontend + relational persistence).
 
 ## Tech Stack
 
@@ -30,10 +31,14 @@ integration practice learned during my internship at Demetra Technologies
 [ React + Redux Toolkit ]  ⇄  REST/JSON  ⇄  [ Spring Boot ]  ⇄  JPA  ⇄  [ MySQL ]
 ```
 
+## Scope and disclaimer
+
+This repository contains code written from scratch as a personal learning
+exercise. It includes no proprietary material from any employer or third party.
+
 ## Author
 
-Andrea Rovea
-LinkedIn: [andrea-rovea](https://www.linkedin.com/in/andrea-rovea)
+Andrea Rovea — [LinkedIn](https://www.linkedin.com/in/andrea-rovea)
 
 ## License
 
