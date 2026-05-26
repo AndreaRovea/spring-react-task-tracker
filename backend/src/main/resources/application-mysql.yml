@@ -1,0 +1,11 @@
+# Activate with: SPRING_PROFILES_ACTIVE=mysql
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/tasktracker?createDatabaseIfNotExist=true&useSSL=false&serverTimezone=UTC
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    username: ${MYSQL_USER:tasktracker}
+    password: ${MYSQL_PASSWORD:tasktracker}
+  jpa:
+    database-platform: org.hibernate.dialect.MySQLDialect
+    hibernate:
+      ddl-auto: update
